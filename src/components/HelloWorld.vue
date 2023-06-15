@@ -1,7 +1,7 @@
 <template>
   <main>
     <h1>API Style !</h1>
-    <p>{{ message }}</p>
+    <p>{{ message }} test</p>
     <button @click="hello(`Mathis`)">Change Message</button>
     <test />
   </main>
