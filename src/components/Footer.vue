@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <h2>Footer position</h2>
+    <h2>Footer position voici un test</h2>
   </footer>
 </template>
 
